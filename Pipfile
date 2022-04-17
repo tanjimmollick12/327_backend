@@ -9,6 +9,7 @@ djangorestframework = "*"
 requests = "*"
 django-cors-headers = "*"
 pyjwt = "*"
+regex = "*"
 
 [dev-packages]
 
